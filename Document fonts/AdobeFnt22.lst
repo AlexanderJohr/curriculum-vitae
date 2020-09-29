@@ -1,0 +1,190 @@
+%!Adobe-FontList 1.22
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-Boo
+FamilyName:Futura
+StyleName:Book
+FullName:Futura Book
+MenuName:Futura
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\Futura-Boo.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44388
+FileModTime:1562322106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FuturaBoo
+NameArray:0,Mac,4,Futura Book
+NameArray:0,Win,1,Futura
+NameArray:0,Win,16,Futura
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-CondensedLight
+FamilyName:Futura
+StyleName:Light Condensed
+FullName:Futura Light Condensed
+MenuName:Futura CondensedLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\Futura-CondensedLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17072
+FileModTime:1562322106
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Futura CondensedLight
+NameArray:0,Mac,4,Futura Light Condensed
+NameArray:0,Win,1,Futura CondensedLight
+NameArray:0,Win,16,Futura
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-Dem
+FamilyName:Futura
+StyleName:Demi
+FullName:Futura Demi
+MenuName:FuturaDem
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\Futura-Dem.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44672
+FileModTime:1562322106
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FuturaDem
+NameArray:0,Mac,4,Futura Demi
+NameArray:0,Win,1,FuturaDem
+NameArray:0,Win,16,Futura
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Futura-Heavy
+FamilyName:Futura
+StyleName:Heavy
+FullName:Futura Heavy
+MenuName:Futura Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\Futura-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16868
+FileModTime:1562322106
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Futura Heavy
+NameArray:0,Win,1,Futura Medium
+NameArray:0,Win,16,Futura
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231312
+FileModTime:1562322106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Cond
+FamilyName:Myriad Pro
+StyleName:Condensed
+FullName:Myriad Pro Condensed
+MenuName:Myriad Pro Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\MyriadPro-Cond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91964
+FileModTime:1562322106
+WeightClass:400
+WidthClass:3
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Cond
+NameArray:0,Mac,4,Myriad Pro Condensed
+NameArray:0,Win,1,Myriad Pro Cond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Johr\Temp Documents\GitHub\curriculum-vitae\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94360
+FileModTime:1562322106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+

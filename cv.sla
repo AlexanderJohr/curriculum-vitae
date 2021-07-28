@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.8">
+    <DOCUMENT ANZPAGES="8" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="0" ABSTSPALTEN="0" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB display profile (ICC v2.2)" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="1" MINGRID="16.54" MAJGRID="49.61" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="3.53" dispY="3.53" constrain="15" MINORC="#00fff7" MAJORC="#00ff00" GuideC="#000080" BaseC="#00007f" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="New Colour" RGB="#4d648f" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Body" LINESPMode="2" CPARENT="Body"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Body" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="7" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.276" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="11" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="102.125 102 226.875 230.938"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.89" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.78" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.67" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.56" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.45" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="5" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5311.34" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="6" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6193.23" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="7" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="99.2375463659147" YPOS="20" WIDTH="348.009120300752" HEIGHT="99.24" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="New Colour" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 348.009 0 348.009 0 348.009 0 348.009 0 348.009 99.24 348.009 99.24 348.009 99.24 348.009 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 348.009 0 348.009 0 348.009 0 348.009 0 348.009 99.24 348.009 99.24 348.009 99.24 348.009 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="100" YPOS="516.2" WIDTH="347.246666666667" HEIGHT="345.69" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 347.247 0 347.247 0 347.247 0 347.247 0 347.247 345.69 347.247 345.69 347.247 345.69 347.247 345.69 0 345.69 0 345.69 0 345.69 0 345.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 347.247 0 347.247 0 347.247 0 347.247 0 347.247 345.69 347.247 345.69 347.247 345.69 347.247 345.69 0 345.69 0 345.69 0 345.69 0 345.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="447.246666666667" YPOS="119.24" WIDTH="248.029333333333" HEIGHT="396.96" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.08175" LOCALSCY="0.08175" LOCALX="-379.204892966361" LOCALY="-320.978593272171" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Links/Portrait.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.029 0 248.029 0 248.029 0 248.029 0 248.029 396.96 248.029 396.96 248.029 396.96 248.029 396.96 0 396.96 0 396.96 0 396.96 0 396.96 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.029 0 248.029 0 248.029 0 248.029 0 248.029 396.96 248.029 396.96 248.029 396.96 248.029 396.96 0 396.96 0 396.96 0 396.96 0 396.96 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="149.606666666667" YPOS="168.86" WIDTH="248.033333333333" HEIGHT="49.62" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Heavy" ISIZE="32" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.033 0 248.033 0 248.033 0 248.033 0 248.033 49.62 248.033 49.62 248.033 49.62 248.033 49.62 0 49.62 0 49.62 0 49.62 0 49.62 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.033 0 248.033 0 248.033 0 248.033 0 248.033 49.62 248.033 49.62 248.033 49.62 248.033 49.62 0 49.62 0 49.62 0 49.62 0 49.62 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Heavy" FONTSIZE="32" CH="Alexander Johr"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="248.82" YPOS="268.1" WIDTH="148.82" HEIGHT="198.48" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 148.82 0 148.82 0 148.82 0 148.82 0 148.82 198.48 148.82 198.48 148.82 198.48 148.82 198.48 0 198.48 0 198.48 0 198.48 0 198.48 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 148.82 0 148.82 0 148.82 0 148.82 0 148.82 198.48 148.82 198.48 148.82 198.48 148.82 198.48 0 198.48 0 198.48 0 198.48 0 198.48 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" CH="Am 28.12.1988 "/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="in Blankenburg (Harz)"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="Käthe-Kollwitz Straße 10"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="38855 Wernigerode"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="0151 700 800 14"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="alexanderjohr.github.io"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="alexander.johr@gmail.com"/>
+            <trail PARENT="Body"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="149.606666666667" YPOS="268.1" WIDTH="82.7133333333333" HEIGHT="198.48" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 82.7133 0 82.7133 0 82.7133 0 82.7133 0 82.7133 198.48 82.7133 198.48 82.7133 198.48 82.7133 198.48 0 198.48 0 198.48 0 198.48 0 198.48 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 82.7133 0 82.7133 0 82.7133 0 82.7133 0 82.7133 198.48 82.7133 198.48 82.7133 198.48 82.7133 198.48 0 198.48 0 198.48 0 198.48 0 198.48 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" CH="Geboren:"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="Wohnort:"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="Mobil:"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="Web:"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" CH="E-Mail:"/>
+            <trail PARENT="Body"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="149.62" YPOS="951.51" WIDTH="198.48" HEIGHT="33.0799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 33.08 198.48 33.08 198.48 33.08 198.48 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 33.08 198.48 33.08 198.48 33.08 198.48 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" FONT="Futura Heavy" FONTSIZE="12" CH="Alexander Johr"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="149.62" YPOS="1298.85" WIDTH="496.2" HEIGHT="396.96" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 496.2 0 496.2 0 496.2 0 496.2 0 496.2 396.96 496.2 396.96 496.2 396.96 496.2 396.96 0 396.96 0 396.96 0 396.96 0 396.96 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 496.2 0 496.2 0 496.2 0 496.2 0 496.2 396.96 496.2 396.96 496.2 396.96 496.2 396.96 0 396.96 0 396.96 0 396.96 0 396.96 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="11" BACKITEM="-1">
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Sehr geehrter Herr Professor Weingarten,"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="hiermit bewerbe ich mich auf die Stelle als wissenschaftliche Mitarbeiter und möchte Ihnen im Folgenden sowohl meine Motivation als auch meine Qualifikation für den Job vorstellen."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Meine ersten Erfahrungen mit Massendaten sammelte ich während meines Bachelorstudiums der Medieninformatik mit MySQL, PostgreSQL und MSSQL. Mich reizte es vor allem, die unterschiedlichen DBMS in ihrem Funktionsumfang zu vergleichen und komplexe Abfragen von einer SQL-Variante in die andere zu überführen. Um die Datenintegrität zu gewährleisten, machte ich intensiven Gebrauch von SQL Constraints und fasste zusammengehörige Befehle zu Transaktionen in Stored Procedures zusammen. Durch meine Arbeit am Webshop "/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Otto.de sammelte ich weitere Erfahrungen in der NoSQL-Technologie MongoDB. Bei meinem letzten Arbeitgeber, der Lizardis GmbH, lernte ich schließlich den Umgang mit der Business Intelligenz Plattform Qlik Sense. Um den Wünschen der internationalen Kunden gerecht zu werden, war es notwendig, alle Möglichkeiten der Transformation und Visualisierung der zugrunde liegenden Daten herauszufinden. Durch Reverse-Engeneering der APIs sicherten wir uns das Alleinstellungsmerkmal, die APIs weit über die Dokumentation des Herstellers hinaus zu kennen und für den Kunden nutzbar zu machen."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Bei der Entwicklung von grafischen Nutzeroberflächen habe ich einschlägige Erfahrung in einer breiten Spanne von Technologien. In meinem letzten Projekt - der Entwicklung des Webseitenbaukastens JoMash für Qlik Sense - fanden gleich mehrere solcher Technologien Anwendung. Als Softwarearchitekt für dieses Produkt koordinierte ich die Entwicklung von einzelnen Elementen der Nutzeroberfläche - sogenannter Angular-Komponenten - an ein Team von 3 Mitarbeitern. Die einzelnen Bereiche der Benutzeroberfläche liefen in einem Client zusammen, der von mir in der Windows Presentation Foundation (kurz WPF) entwickelt wurde."/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Darüber hinaus kenne ich mich mit Frameworks zur Erstellung von plattformübergreifenden Oberflächen zur Ausgabe auf dem Desktop und auf mobilen Endgeräten wie etwa React Native und Flutter gut aus."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Als Dozent an der Hochschule Harz lehre ich aktuell unter anderem den professionellen Umgang mit Versionierung am Beispiel von Git. Dabei lege ich mein Hauptaugenmerk auf die reibungslose Kolaboration im Team mithilfe des Gitflow-Workflows. Gemeinsam mit den Studierenden übe ich die saubere Entwicklung und Dokumentation innerhalb von Feature-Branches und die Qualitätssicherung über Reviews und Kommentare in den sogenannten Pull-Requests. Konventionen, Entwurfsmuster und Prinzipien zum Schreiben von „Clean Code“ spielen bei allen Übungen, die ich betreue, eine große Rolle."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Während meines Masterstudiums verwendete ich nun die Sprachen R und Python für Datentransformationen, Visualisierungen, Regressionsanalysen und Datenclustering. Zur Erleichterung des Verständnisses der komplexen Skripte setzte ich mich mit den Möglichkeiten der Dokumentation im Jupyter Notebook auseinander."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Ich bin überzeugt, dass ich durch die Arbeit am Thünen-Institut nicht nur an meinem eigenen Profil feilen kann, sondern auch Ihre Arbeit durch die mir bekannten und dort neu entwickelten Best Practices bereichern werde."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Ich freue mich auf ein persönliches Gespräch mit Ihnen und verbleibe mit freundlichen Grüßen."/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Minion Pro Regular" CH="Alexander Johr"/>
+            <para PARENT="Body"/>
+            <para PARENT="Body"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="149.62" YPOS="1050.75" WIDTH="198.48" HEIGHT="33.0799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 33.08 198.48 33.08 198.48 33.08 198.48 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 33.08 198.48 33.08 198.48 33.08 198.48 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" FONT="Futura Heavy" FONTSIZE="12" CH="Johann Heinrich von Thünen-Institut"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="150.14" YPOS="968.05" WIDTH="148.34" HEIGHT="82.7" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 148.34 0 148.34 0 148.34 0 148.34 0 148.34 82.7 148.34 82.7 148.34 82.7 148.34 82.7 0 82.7 0 82.7 0 82.7 0 82.7 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 148.34 0 148.34 0 148.34 0 148.34 0 148.34 82.7 148.34 82.7 148.34 82.7 148.34 82.7 0 82.7 0 82.7 0 82.7 0 82.7 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="Käthe-Kollwitz Straße 10"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="38855 Wernigerode"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="0151 700 800 14"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="alexander.johr@gmail.com"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="149.62" YPOS="1067.29" WIDTH="198.48" HEIGHT="99.24" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 99.24 198.48 99.24 198.48 99.24 198.48 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 99.24 198.48 99.24 198.48 99.24 198.48 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="Institut für Ländliche Räume"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="Prof. Dr. Peter Weingarten"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="Bundesallee 64, 38116 Braunschweig"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="peter.weingarten@thuenen.de"/>
+            <para PARENT="Body"/>
+            <ITEXT CPARENT="Body" FONT="Futura Book" FONTSIZE="11" CH="29. Juli 2020"/>
+            <para PARENT="Body"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="149.62" YPOS="1833.4" WIDTH="496.2" HEIGHT="744.3" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Minion Pro Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 496.2 0 496.2 0 496.2 0 496.2 0 496.2 744.3 496.2 744.3 496.2 744.3 496.2 744.3 0 744.3 0 744.3 0 744.3 0 744.3 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 496.2 0 496.2 0 496.2 0 496.2 0 496.2 744.3 496.2 744.3 496.2 744.3 496.2 744.3 0 744.3 0 744.3 0 744.3 0 744.3 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="7">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="98" YPOS="1192.53" WIDTH="430.04" HEIGHT="49.6200000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Book" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="49" TEXTRA="8" BEXTRA="8" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 430.04 0 430.04 0 430.04 0 430.04 0 430.04 49.62 430.04 49.62 430.04 49.62 430.04 49.62 0 49.62 0 49.62 0 49.62 0 49.62 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 430.04 0 430.04 0 430.04 0 430.04 0 430.04 49.62 430.04 49.62 430.04 49.62 430.04 49.62 0 49.62 0 49.62 0 49.62 0 49.62 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="18" FCOLOR="White" CH="Bewerbung - wiss. Mitarbeiter Datenmanagement Medieninformatiker"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="10" FCOLOR="White" CH="Kennwort: 2021-163-LR06"/>
+            <trail LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="149.62" YPOS="2764.91" WIDTH="198.48" HEIGHT="694.68" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 694.68 198.48 694.68 198.48 694.68 198.48 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 694.68 198.48 694.68 198.48 694.68 198.48 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="seit 06.2020"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="seit 09.2018"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="12.2016  - 12.2019"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="08.2016 - 11.2016"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="03.2015 -  08.2016"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="03.2014 - 11.2014"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="09.2011 - 02.2015"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="01.2010 - 11 .2011"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="08.2006 - 06.2009"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="07.2010 - 10.2011"/>
+            <trail ALIGN="2" LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="100" YPOS="2714.83" WIDTH="264.64" HEIGHT="33.0799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="SCHULISCHE &amp; BERUFLICHE PRAXIS"/>
+            <para LINESPMode="2" OpticalMargins="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="364.64" YPOS="2764.91" WIDTH="297.72" HEIGHT="694.68" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 297.72 0 297.72 0 297.72 0 297.72 0 297.72 694.68 297.72 694.68 297.72 694.68 297.72 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 297.72 0 297.72 0 297.72 0 297.72 0 297.72 694.68 297.72 694.68 297.72 694.68 297.72 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="„Wissenschaftler (Agrar-/Geowissenschaften/Informatik)“"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Johann Heinrich von Thünen-Institut"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Master of Arts Medien- und Spielekonzeption"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Hochschule Harz"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Softwarearchitekt, Lizardis GmbH"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Entwicklung des Produktes JoMash"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Entwicklung von Qlik Sense Mashups"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Business Intelligence (QlikView, Qlik Sense)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Technologien: AngularDart, WPF"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Junior Software Developer, Otto (GmbH &amp; Co KG)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Hamburg"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Entwicklung an der Otto Website"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Technologien: Microservices, MongoDB, Java"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Associate Consultant, fme AG"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Braunschweig"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Business Intelligence (QlikView, Qlik Sense)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Java Web-Projekte (JSF, Spring, Ext JS, AngularJS)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Augmented Reality mit Unity"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Bachelorpraktikum bei der fme AG"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Business Intelligence (QlikView, Qlik Sense)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Bachelor of Science Medieninformatik, Hochschule Harz"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Jahrgangsbester mit der Abschlussnote 1,2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Freiwillig länger dienender Wehrdienst Leistender"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Grundwehrdienst"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Weiterentwicklung der Webpräsenz in der Presseabteilung der Deutsch-Französischen Brigade"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Abitur Wirtschaftsinformatik, Berufsbildende Schulen Wernigerode"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Fernstudium zum Geprüften C# Software-Entwickler (ILS)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="100" YPOS="3288.65" WIDTH="264.64" HEIGHT="33.08" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="WEITERBILDUNG"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="100" YPOS="3596.72" WIDTH="264.64" HEIGHT="33.08" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="AUSZEICHNUNGEN"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="100" YPOS="3751.12" WIDTH="264.64" HEIGHT="33.08" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="STUDENTISCHES ENGAGEMENT"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="100" YPOS="4198.24" WIDTH="264.64" HEIGHT="33.08" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="SPRACHKENNTNISSE"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="364.64" YPOS="3646.8" WIDTH="281.18" HEIGHT="645.06" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 281.18 0 281.18 0 281.18 0 281.18 0 281.18 645.06 281.18 645.06 281.18 645.06 281.18 645.06 0 645.06 0 645.06 0 645.06 0 645.06 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 281.18 0 281.18 0 281.18 0 281.18 0 281.18 645.06 281.18 645.06 281.18 645.06 281.18 645.06 0 645.06 0 645.06 0 645.06 0 645.06 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="FERCHAU-Förderpreis"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Bester Informatik-Absolvent 2014/2015"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="2. Preis in der 1. und 2. Runde des 27. Bundeswettbewerb der  Informatik"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Vorstandsmitglied in der studentischen Initiative der Arbeitsgemeinschaft Nachhaltig Hochschule Harz"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Tutor für die Lehrveranstaltung Objektorientierte"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Programmierung"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Teilnahme in der Arbeitsgemeinschaft Nachhaltig Hochschule Harz"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Gastvortrag, Übungsblock in der LV Webprogrammierung"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Kurzbeschreibung: Selbstständige Vorbereitung und Durchführung eines Vorlesungs- und eines Übungsblocks zur Programmierung mit Dart."/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Softwareentwicklung mobiler Flugroboter"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Tutor für die Lehrveranstaltungen Programmierung 1, 2 und 3"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Unterstützung des Tutoriums Grundlagen der Informatik"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Implementierungstätigkeiten für die Datenbanklehre"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Betreuung von Laboren der LV Grafische Nutzerschnittstellen"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Englisch (C1, TOEFL iBT Score: 99)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <ITEXT FONT="Myriad Pro Regular" FONTSIZE="12" CH="Französisch (B1)"/>
+            <para ALIGN="0" LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="149.62" YPOS="3646.8" WIDTH="198.48" HEIGHT="694.68" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 694.68 198.48 694.68 198.48 694.68 198.48 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.48 0 198.48 0 198.48 0 198.48 0 198.48 694.68 198.48 694.68 198.48 694.68 198.48 694.68 0 694.68 0 694.68 0 694.68 0 694.68 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="11.2015"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="06.2009"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="seit 04.2019 "/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="seit 03.2019 "/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="seit 09.2018"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="04.2014 – 06.2014"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="01.2013 – 06.2013 "/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="10.2012 – 12.2013 "/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="11.2013 – 12.2013"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="03.2013 – 05.2013 "/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <para ALIGN="2" LINESPMode="2"/>
+            <ITEXT FONT="Futura Light Condensed" FONTSIZE="14" CH="10.2012 – 12.2012"/>
+            <trail ALIGN="2" LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="116.54" YPOS="4892.57" WIDTH="363.88" HEIGHT="363.88" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 363.88 0 363.88 0 363.88 0 363.88 0 363.88 363.88 363.88 363.88 363.88 363.88 363.88 363.88 0 363.88 0 363.88 0 363.88 0 363.88 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 363.88 0 363.88 0 363.88 0 363.88 0 363.88 363.88 363.88 363.88 363.88 363.88 363.88 363.88 0 363.88 0 363.88 0 363.88 0 363.88 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" CH="JoMash"/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="JoMash ist eine Erweiterung von Qlik Sense®. Mit Benutzerfreundlicher Navigation führt einen ohne Programmierkenntnisse durch die Funktionen, die per Drag and Drop für ein übersichtliches Seitenlayout sorgt. Dabei ist das Kundenspezifisches Corporate- und das responsive Design nur eine der vielen Möglichkeiten die JoMash zu bieten hat."/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="JoMash ermöglicht die Erstellung von Qlik Sense Mashups ohne jegliche Programmierkenntnisse."/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="Objekte können per Drag and Drop Funktion eingefügt werden und bieten zahlreiche Konfigurationen an. So können Objekte ein- und ausgeblendet werden, in ihrer Höhe und Breite angepasst werden oder mit einem Exportdialog ausgestattet werden. Zudem können Objekte aus unterschiedlichen Qlik Sense Applikationen eingebettet werden."/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="Die Navigation enthält mehreren Ebenen und ist genau wie das Seitenlayout mit wenigen Klicks erstellt. "/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="Eine intelligente Suche ermöglicht das Suchen über mehrere Qlik Sense Applikationen. Zudem lassen sich die Felder eingrenzen, um die Suchgeschwindigkeit zu erhöhen."/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Minion Pro Regular" FONTSIZE="10" CH="Über iframes ist die Integration externer Inhalte, wie z.B. Wetterinformationen, Börsencharts etc. möglich."/>
+            <para LINESPMode="2"/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Futura Demi" CH="Technologien: Dart, Angular, WPF, CEFSharp, QlikSense"/>
+            <trail LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="496.96" YPOS="4876.03" WIDTH="181.94" HEIGHT="380.42" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.452587064676617" LOCALSCY="0.452587064676617" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Links/Screenshot 000215.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 181.94 0 181.94 0 181.94 0 181.94 0 181.94 380.42 181.94 380.42 181.94 380.42 181.94 380.42 0 380.42 0 380.42 0 380.42 0 380.42 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 181.94 0 181.94 0 181.94 0 181.94 0 181.94 380.42 181.94 380.42 181.94 380.42 181.94 380.42 0 380.42 0 380.42 0 380.42 0 380.42 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="100" YPOS="4528.69" WIDTH="595.44" HEIGHT="330.8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.23259375" LOCALSCY="0.23259375" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Links/Screenshot 000214.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595.44 0 595.44 0 595.44 0 595.44 0 595.44 330.8 595.44 330.8 595.44 330.8 595.44 330.8 0 330.8 0 330.8 0 330.8 0 330.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595.44 0 595.44 0 595.44 0 595.44 0 595.44 330.8 595.44 330.8 595.44 330.8 595.44 330.8 0 330.8 0 330.8 0 330.8 0 330.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="100" YPOS="4465.07" WIDTH="264.64" HEIGHT="33.08" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="New Colour" PCOLOR2="None" TXTFILL="White" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Futura Light Condensed" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="6" BEXTRA="6" REXTRA="17" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.64 0 264.64 0 264.64 0 264.64 0 264.64 33.08 264.64 33.08 264.64 33.08 264.64 33.08 0 33.08 0 33.08 0 33.08 0 33.08 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Futura Book" FONTSIZE="14" FCOLOR="White" CH="AUSGEWÄHLTE PROJEKTE"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="364.64" YPOS="4291.86" WIDTH="165.4" HEIGHT="99.2400000000007" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.320129032258067" LOCALSCY="0.320129032258067" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Links/Unterschrift.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 165.4 0 165.4 0 165.4 0 165.4 0 165.4 99.24 165.4 99.24 165.4 99.24 165.4 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 165.4 0 165.4 0 165.4 0 165.4 0 165.4 99.24 165.4 99.24 165.4 99.24 165.4 99.24 0 99.24 0 99.24 0 99.24 0 99.24 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
